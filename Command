@@ -15,3 +15,10 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking
 
 //Command to push changes to GitHub
 git push origin main or master (whichever is the folder name)
+
+//to add a new local project try "git init"
+
+//however push will fail since Git does not identity repository , create a empty repository at GitHub and run below Command
+//git remote add origin https://github.com/chandangupta2008/Demo-repo2.git
+
+//git remote -v   --- to very access is made

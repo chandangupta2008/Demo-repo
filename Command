@@ -12,3 +12,6 @@ git commit -m "Title" -m "short description"
 
 //SSH setting to setup a connection between local and server
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keysgi
+
+//Command to push changes to GitHub
+git push origin main or master (whichever is the folder name)

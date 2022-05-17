@@ -22,3 +22,6 @@ git push origin main or master (whichever is the folder name)
 //git remote add origin https://github.com/chandangupta2008/Demo-repo2.git
 
 //git remote -v   --- to very access is made
+
+//to avoid mentioning origin main again n again
+//git push -u origin main

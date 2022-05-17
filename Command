@@ -1,0 +1,14 @@
+Git clone <Git path>
+
+//To check uncommited or modified or added files
+git status 
+
+//to account all modified changes
+git add .
+git add Index.html
+
+//commit
+git commit -m "Title" -m "short description"
+
+//SSH setting to setup a connection between local and server
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keysgi

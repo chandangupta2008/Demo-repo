@@ -25,3 +25,9 @@ git push origin main or master (whichever is the folder name)
 
 //to avoid mentioning origin main again n again
 //git push -u origin main
+
+//Command to check Branch
+//git Branch 
+
+//git checkout command to switch Branch
+//git checkout -b feature-INC
